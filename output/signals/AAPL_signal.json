@@ -1,0 +1,7 @@
+{
+    "action": "SELL",
+    "confidence": 0.7,
+    "reasons": "Model predicts -9.82% downside.",
+    "predicted_price": 244.4,
+    "current_price": 271.01
+}
